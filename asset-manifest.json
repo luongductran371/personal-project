@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personal-project/static/css/main.cff5505f.css",
+    "main.js": "/personal-project/static/js/main.a6724827.js",
+    "static/media/Madai-pic.png": "/personal-project/static/media/Madai-pic.85addb261beefb7ad088.png",
+    "static/media/logoM.png": "/personal-project/static/media/logoM.435a3ca87fc6dc15820d.png",
+    "index.html": "/personal-project/index.html",
+    "main.cff5505f.css.map": "/personal-project/static/css/main.cff5505f.css.map",
+    "main.a6724827.js.map": "/personal-project/static/js/main.a6724827.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cff5505f.css",
+    "static/js/main.a6724827.js"
+  ]
+}
