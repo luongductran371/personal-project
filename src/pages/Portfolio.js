@@ -1,4 +1,5 @@
 import React from "react";
+import {Uploader} from "../firebase/uploader";
 
 // Import Link
 import { Link } from "react-router-dom";
@@ -21,6 +22,7 @@ const Portfolio = () => {
           <Link to={"/contact"} className="btn mb-[30px] mx-auto lg:mx-0">
             Hire me
           </Link>
+          {Uploader}
         </div>
         {/* image grid */}
         <div className="grid grid-cols-2 lg:gap-2">
